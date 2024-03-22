@@ -7,9 +7,9 @@ Metro-ESP32 Cool WhatsApp Project
 Send messages through a WhatsApp API to my personal number.
 
 ## Equipment
-* [Metro-ESP32]()
+* [Metro-ESP32](https://www.adafruit.com/product/4775)
 
-* [USB-C Cable]()
+* [USB-C Cable](https://www.adafruit.com/product/4473?gad_source=1&gclid=Cj0KCQjw2PSvBhDjARIsAKc2cgMPclKTXZy_pNRaR5M0IUoAdL4i_ZRS04h3fJkgNfEqf-jbmhlW_jYaAn4UEALw_wcB)
 
 ## Link to Documentation Followed
 - [Random Nerd Tutorials – ESP32: Send Messages to WhatsApp](https://randomnerdtutorials.com/esp32-send-messages-whatsapp/)
